@@ -96,3 +96,9 @@ Inspired primarily by Amazon, with a few nods to eBay, this project aims to repl
 [Order Microservice](https://github.com/GhostMEn20034/SMILE_SALES_ORDER_MICROSERVICE) - Checkout and Payments.<br>
 [Admin Panel for Product Microservice (Private API)](https://github.com/GhostMEn20034/SMIL3_SAL3S_admin_panel) - Frontend for the private product API.<br>
 [Main Frontend](https://github.com/GhostMEn20034/SM1L3_SALES_frontend) - The main website of SMILE SALES e-commerce.<br>
+
+# Setup
+### 1. Create Twilio services (see [SETUP_TWILIO_PLUS_SENDGRID.md](/SETUP_TWILIO_PLUS_SENDGRID.md))
+### 2. Complete the setup in every [project component](#project-components)
+
+
