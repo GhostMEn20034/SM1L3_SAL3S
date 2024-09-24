@@ -14,9 +14,10 @@ Inspired primarily by Amazon, with a few nods to eBay, this project aims to repl
 ## Product Search and Discovery:
   - Faceted search for precise product filtering
   - Search bar with query suggestions
-  - Product listing with sorting options (price, ending soonest)
+  - Product listing with sorting options (relevancy, price, ending soonest)
   - Product detail pages with rich information and variant selection (You can choose product options like on Amazon)
   - Product category browsing
+  - List of the recently viewed items
 
 ## Shopping Cart and Checkout:
   - Cart management (add, remove, update items)
@@ -87,3 +88,11 @@ Inspired primarily by Amazon, with a few nods to eBay, this project aims to repl
 ![Static Badge](https://img.shields.io/badge/react--router--dom-white?logo=reactrouter)
 ![Static Badge](https://img.shields.io/badge/axios-white?logo=axios&logoColor=%235A29E4)
 ![Static Badge](https://img.shields.io/badge/swiperJS-white?logo=swiper&logoColor=%236332F6)
+
+# Project Components
+[User Microservice](https://github.com/GhostMEn20034/SM1L3_SAL3S_user_microservice) - User management, cart management, and the user's history.<br>
+[Product Microservice (Public API)](https://github.com/GhostMEn20034/SMILE_SALES_product_microservice) - Product search and discovery.<br>
+[Product Microservice (Private API)](https://github.com/GhostMEn20034/SM1L3_SAL3S_product_microservice_admin) - Product listing and management.<br>
+[Order Microservice](https://github.com/GhostMEn20034/SMILE_SALES_ORDER_MICROSERVICE) - Checkout and Payments.<br>
+[Admin Panel for Product Microservice (Private API)](https://github.com/GhostMEn20034/SMIL3_SAL3S_admin_panel) - Frontend for the private product API.<br>
+[Main Frontend](https://github.com/GhostMEn20034/SM1L3_SALES_frontend) - The main website of SMILE SALES e-commerce.<br>
