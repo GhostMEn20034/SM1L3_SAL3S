@@ -36,6 +36,14 @@ Inspired primarily by Amazon, with a few nods to eBay, this project aims to repl
   - "Buy Now" section for quickly purchasing in-stock products (Populated based on your order items)
   - Order archiving (up to 250 orders) and unarchiving
 
+# Project Components
+[User Microservice](https://github.com/GhostMEn20034/SM1L3_SAL3S_user_microservice) - User management, cart management, and the user's history.<br>
+[Product Microservice (Public API)](https://github.com/GhostMEn20034/SMILE_SALES_product_microservice) - Product search and discovery.<br>
+[Product Microservice (Private API)](https://github.com/GhostMEn20034/SM1L3_SAL3S_product_microservice_admin) - Product listing and management.<br>
+[Order Microservice](https://github.com/GhostMEn20034/SMILE_SALES_ORDER_MICROSERVICE) - Checkout and Payments.<br>
+[Admin Panel for Product Microservice (Private API)](https://github.com/GhostMEn20034/SMIL3_SAL3S_admin_panel) - Frontend for the private product API.<br>
+[Main Frontend](https://github.com/GhostMEn20034/SM1L3_SALES_frontend) - The main website of SMILE SALES e-commerce.<br>
+
 # Tech Stack
 ## Programming Languages
 ![Static Badge](https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=blue&labelColor=white)
@@ -88,14 +96,6 @@ Inspired primarily by Amazon, with a few nods to eBay, this project aims to repl
 ![Static Badge](https://img.shields.io/badge/react--router--dom-white?logo=reactrouter)
 ![Static Badge](https://img.shields.io/badge/axios-white?logo=axios&logoColor=%235A29E4)
 ![Static Badge](https://img.shields.io/badge/swiperJS-white?logo=swiper&logoColor=%236332F6)
-
-# Project Components
-[User Microservice](https://github.com/GhostMEn20034/SM1L3_SAL3S_user_microservice) - User management, cart management, and the user's history.<br>
-[Product Microservice (Public API)](https://github.com/GhostMEn20034/SMILE_SALES_product_microservice) - Product search and discovery.<br>
-[Product Microservice (Private API)](https://github.com/GhostMEn20034/SM1L3_SAL3S_product_microservice_admin) - Product listing and management.<br>
-[Order Microservice](https://github.com/GhostMEn20034/SMILE_SALES_ORDER_MICROSERVICE) - Checkout and Payments.<br>
-[Admin Panel for Product Microservice (Private API)](https://github.com/GhostMEn20034/SMIL3_SAL3S_admin_panel) - Frontend for the private product API.<br>
-[Main Frontend](https://github.com/GhostMEn20034/SM1L3_SALES_frontend) - The main website of SMILE SALES e-commerce.<br>
 
 # Setup
 ### 1. Create Twilio services (see [SETUP_TWILIO_PLUS_SENDGRID.md](/SETUP_TWILIO_PLUS_SENDGRID.md))
