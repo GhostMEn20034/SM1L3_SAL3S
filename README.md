@@ -36,7 +36,7 @@ Inspired primarily by Amazon, with a few nods to eBay, this project aims to repl
   - "Buy Now" section for quickly purchasing in-stock products (Populated based on your order items)
   - Order archiving (up to 250 orders) and unarchiving
 
-# Project Components
+# Source Code
 [User Microservice](https://github.com/GhostMEn20034/SM1L3_SAL3S_user_microservice) - User management, cart management, and the user's history.<br>
 [Product Microservice (Public API)](https://github.com/GhostMEn20034/SMILE_SALES_product_microservice) - Product search and discovery.<br>
 [Product Microservice (Private API)](https://github.com/GhostMEn20034/SM1L3_SAL3S_product_microservice_admin) - Product listing and management.<br>
@@ -99,6 +99,6 @@ Inspired primarily by Amazon, with a few nods to eBay, this project aims to repl
 
 # Setup
 ### 1. Create Twilio services (see [SETUP_TWILIO_PLUS_SENDGRID.md](/SETUP_TWILIO_PLUS_SENDGRID.md))
-### 2. Complete the setup in every [project component](#project-components)
+### 2. Complete the setup in every [project component](#source-code)
 
 
